@@ -1,1 +1,1 @@
-{"units": 192, "learning_rate": 0.006115815792982453, "tuner/epochs": 10, "tuner/initial_epoch": 0, "tuner/bracket": 0, "tuner/round": 0}
+{"units": 448, "dropout": 0.0, "learning_rate": 0.00995258922247503}

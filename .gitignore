@@ -1,2 +1,5 @@
 teamproject/keras_tuner_dir
 teamproject/lendingclub_train.dta
+teamproject/final_trained_model.h5
+teamproject/mymodel.keras
+teamproject/randomforest_fitted_model.pkl
