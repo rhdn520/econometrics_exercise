@@ -4,3 +4,4 @@ teamproject/final_trained_model.h5
 teamproject/mymodel.keras
 teamproject/randomforest_fitted_model.pkl
 teamproject/hyperband
+teamproject/keras_tuner_dir
