@@ -5,3 +5,5 @@ teamproject/mymodel.keras
 teamproject/randomforest_fitted_model.pkl
 teamproject/hyperband
 teamproject/keras_tuner_dir
+teamproject/random_forest_justincase.joblib
+teamproject/random_forest_final.joblib
