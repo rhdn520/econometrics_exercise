@@ -1,1 +1,1 @@
-{"units": 480, "units2": 384, "dropout": 0.0, "dropout2": 0.0, "learning_rate": 0.0011788058700914175}
+{"units": 448, "units2": 256, "dropout": 0.0, "dropout2": 0.4, "learning_rate": 0.0001109054688511351}

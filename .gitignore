@@ -7,3 +7,5 @@ teamproject/hyperband
 teamproject/keras_tuner_dir
 teamproject/random_forest_justincase.joblib
 teamproject/random_forest_final.joblib
+teamproject/random_forest_fico_high.joblib
+teamproject/random_forest_fico_low.joblib
